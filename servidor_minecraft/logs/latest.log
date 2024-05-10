@@ -1,84 +1,316 @@
-[03:51:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[03:51:25] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[03:51:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[03:51:25] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
-[03:51:25] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_402, running on Linux:amd64:6.5.0-1018-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[03:51:25] [main/INFO] [FML]: Searching /workspaces/sadsa/servidor_minecraft/./mods for mods
-[03:51:25] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.9.6.jar
-[03:51:25] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in cxlibrary-1.12.1-1.6.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[03:51:25] [main/WARN] [FML]: The coremod cubex2.cxlibrary.CoreModLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[03:51:25] [main/WARN] [FML]: The coremod CXLibraryCore (cubex2.cxlibrary.CoreModLoader) is not signed!
-[03:51:25] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from forgemod_VoxelMap-1.9.28_for_1.12.2.jar
-[03:51:25] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Galacticraft-1.12.2-4.0.2.284.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[03:51:25] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
-[03:51:26] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Mekanism-1.12.2-9.7.9.380.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[03:51:26] [main/WARN] [FML]: The coremod mekanism.coremod.MekanismCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[03:51:26] [main/WARN] [FML]: The coremod MekanismCoremod (mekanism.coremod.MekanismCoremod) is not signed!
-[03:51:26] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
-[03:51:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[03:51:26] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[03:51:26] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/sadsa/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.6.jar Service=LaunchWrapper Env=SERVER
-[03:51:26] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
-[03:51:26] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[03:51:26] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[03:51:26] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
-[03:51:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[03:51:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[03:51:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[03:51:26] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
-[03:51:26] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
-[03:51:26] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
-[03:51:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:51:27] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[03:51:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:51:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:51:27] [main/INFO] [MicdoodleCore]: Successfully Registered Transformer
-[03:51:27] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[03:51:27] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@5eccd3b9
-[03:51:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:51:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[03:51:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[03:51:27] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[03:51:27] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[03:51:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[03:51:27] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[03:51:27] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
-[03:51:27] [main/WARN] [mixin]: Error loading class: net/minecraft/client/renderer/entity/Render (java.lang.ClassNotFoundException: The specified class 'net.minecraft.client.renderer.entity.Render' was not found)
-[03:51:27] [main/WARN] [mixin]: @Mixin target net.minecraft.client.renderer.entity.Render was not found mixins.voxelmap.json:MixinRender
-[03:51:27] [main/WARN] [mixin]: Error loading class: net/minecraft/client/renderer/EntityRenderer (net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@5a9800f8 from coremod FMLCorePlugin)
-[03:51:27] [main/WARN] [mixin]: @Mixin target net.minecraft.client.renderer.EntityRenderer was not found mixins.voxelmap.json:MixinEntityRenderer
-[03:51:27] [main/WARN] [mixin]: Error loading class: net/minecraft/client/renderer/RenderGlobal (net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@5a9800f8 from coremod FMLCorePlugin)
-[03:51:27] [main/WARN] [mixin]: @Mixin target net.minecraft.client.renderer.RenderGlobal was not found mixins.voxelmap.json:MixinRenderGlobal
-[03:51:27] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[03:51:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[03:51:31] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2859 Initialized
-[03:51:31] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[03:51:31] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[03:51:31] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[03:51:31] [Server thread/INFO] [FML]: Searching /workspaces/sadsa/servidor_minecraft/./mods for mods
-[03:51:32] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.6
-[03:51:32] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.64.843
-[03:51:32] [Server thread/WARN] [FML]: Mod mekanismgenerators is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.7.9.380
-[03:51:32] [Server thread/INFO] [FML]: Disabling mod ptrmodellib it is client side only.
-[03:51:32] [Server thread/FATAL] [FML]: Found a duplicate mod voxelmap at [/workspaces/sadsa/servidor_minecraft/./mods/forgemod_VoxelMap-1.9.28_for_1.12.2.jar, ./mods/forgemod_VoxelMap-1.9.28_for_1.12.2.jar]
-[03:51:32] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
-net.minecraftforge.fml.common.DuplicateModsFoundException: 
-Duplicate Mods:
-	voxelmap : /workspaces/sadsa/servidor_minecraft/./mods/forgemod_VoxelMap-1.9.28_for_1.12.2.jar
-	voxelmap : /workspaces/sadsa/servidor_minecraft/./mods/forgemod_VoxelMap-1.9.28_for_1.12.2.jar
-
-
-	at net.minecraftforge.fml.common.Loader.identifyDuplicates(Loader.java:466) ~[Loader.class:?]
-	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:428) ~[Loader.class:?]
-	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) ~[Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) ~[FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) ~[FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) ~[nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_402]
-[03:51:32] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: This crash report has been saved to: /workspaces/sadsa/servidor_minecraft/./crash-reports/crash-2024-05-10_03.51.32-server.txt
-[03:51:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[03:51:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[03:51:32] [Server thread/INFO] [FML]: The state engine was in incorrect state CONSTRUCTING and forced into state SERVER_STOPPED. Errors may have been discarded.
-[03:51:32] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[03:51:32] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[03:55:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[03:55:20] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[03:55:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[03:55:20] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
+[03:55:20] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_402, running on Linux:amd64:6.5.0-1018-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[03:55:20] [main/INFO] [FML]: Searching /workspaces/sadsa/servidor_minecraft/./mods for mods
+[03:55:20] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.9.6.jar
+[03:55:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in cxlibrary-1.12.1-1.6.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[03:55:20] [main/WARN] [FML]: The coremod cubex2.cxlibrary.CoreModLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[03:55:20] [main/WARN] [FML]: The coremod CXLibraryCore (cubex2.cxlibrary.CoreModLoader) is not signed!
+[03:55:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Galacticraft-1.12.2-4.0.2.284.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[03:55:20] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[03:55:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Mekanism-1.12.2-9.7.9.380.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[03:55:20] [main/WARN] [FML]: The coremod mekanism.coremod.MekanismCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[03:55:20] [main/WARN] [FML]: The coremod MekanismCoremod (mekanism.coremod.MekanismCoremod) is not signed!
+[03:55:20] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
+[03:55:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:55:20] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[03:55:20] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/sadsa/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.6.jar Service=LaunchWrapper Env=SERVER
+[03:55:20] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
+[03:55:20] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[03:55:20] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[03:55:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[03:55:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:55:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:55:20] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[03:55:20] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[03:55:20] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[03:55:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:55:21] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[03:55:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:55:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:55:21] [main/INFO] [MicdoodleCore]: Successfully Registered Transformer
+[03:55:21] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[03:55:21] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@5c41d037
+[03:55:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:55:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[03:55:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:55:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[03:55:21] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[03:55:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[03:55:21] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[03:55:21] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[03:55:22] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[03:55:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[03:55:25] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2859 Initialized
+[03:55:25] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[03:55:25] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[03:55:26] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[03:55:26] [Server thread/INFO] [FML]: Searching /workspaces/sadsa/servidor_minecraft/./mods for mods
+[03:55:26] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.6
+[03:55:27] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.64.843
+[03:55:27] [Server thread/WARN] [FML]: Mod mekanismgenerators is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.7.9.380
+[03:55:27] [Server thread/INFO] [FML]: Disabling mod ptrmodellib it is client side only.
+[03:55:27] [Server thread/INFO] [FML]: Forge Mod Loader has identified 33 mods to load
+[03:55:27] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[03:55:27] [Server thread/WARN] [FML]: Missing English translation for cofhcore: assets/cofhcore/lang/en_us.lang
+[03:55:27] [Server thread/WARN] [FML]: Missing English translation for cxlibrary: assets/cxlibrary/lang/en_us.lang
+[03:55:27] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[03:55:27] [Server thread/WARN] [FML]: Missing English translation for mekanismgenerators: assets/mekanismgenerators/lang/en_us.lang
+[03:55:27] [Server thread/WARN] [FML]: Missing English translation for redstoneflux: assets/redstoneflux/lang/en_us.lang
+[03:55:27] [Server thread/WARN] [FML]: Missing English translation for supermartijn642configlib: assets/supermartijn642configlib/lang/en_us.lang
+[03:55:27] [Server thread/WARN] [FML]: Missing English translation for supermartijn642corelib: assets/supermartijn642corelib/lang/en_us.lang
+[03:55:27] [Server thread/INFO] [FML]: FML has found a non-mod file PTRLib-1.0.5.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[03:55:28] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, securitycraft, appliedenergistics2, artifacts, baubles, cofhcore, cofhworld, cxlibrary, cyclopscore, ebwizardry, evilcraft, evilcraftcompat, galacticraftcore, galacticraftplanets, gravestone, ironchest, jei, mantle, mekanism, mekanismgenerators, morefurnaces, packedup, redstoneflux, spartanshields, supermartijn642configlib, supermartijn642corelib, tconstruct, theoneprobe, thermalfoundation] at CLIENT
+[03:55:28] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, securitycraft, appliedenergistics2, artifacts, baubles, cofhcore, cofhworld, cxlibrary, cyclopscore, ebwizardry, evilcraft, evilcraftcompat, galacticraftcore, galacticraftplanets, gravestone, ironchest, jei, mantle, mekanism, mekanismgenerators, morefurnaces, packedup, redstoneflux, spartanshields, supermartijn642configlib, supermartijn642corelib, tconstruct, theoneprobe, thermalfoundation] at SERVER
+[03:55:30] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[03:55:30] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselIntegration; missing dependency: chisel
+[03:55:30] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
+[03:55:30] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[03:55:30] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse wailaIntegration; missing dependency: waila
+[03:55:30] [Server thread/INFO] [tconstruct]: Preparing to take over the world
+[03:55:30] [Server thread/ERROR] [FML]: The mod thermalfoundation is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalFoundation-1.12.2-2.6.7.1-universal.jar, however there is no signature matching that description
+[03:55:30] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[03:55:30] [Server thread/INFO] [FML]: Found 1806 ObjectHolder annotations
+[03:55:30] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[03:55:30] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[03:55:30] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[03:55:30] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhcore] Starting version check at https://raw.github.com/cofh/version/master/cofhcore_update.json
+[03:55:30] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhcore] Found status: UP_TO_DATE Target: null
+[03:55:30] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalfoundation] Starting version check at https://raw.github.com/cofh/version/master/thermalfoundation_update.json
+[03:55:30] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalfoundation] Found status: UP_TO_DATE Target: null
+[03:55:30] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Starting version check at https://raw.githubusercontent.com/ochotonida/artifacts/1.12/update.json
+[03:55:30] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Found status: UP_TO_DATE Target: null
+[03:55:30] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[03:55:31] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[03:55:31] [Forge Version Check/INFO] [forge.VersionCheck]: [gravestone] Starting version check at https://raw.githubusercontent.com/NightKosh/GraveStone-mod/master/update.json
+[03:55:31] [Forge Version Check/INFO] [forge.VersionCheck]: [gravestone] Found status: BETA Target: null
+[03:55:31] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhworld] Starting version check at https://raw.github.com/cofh/version/master/cofhworld_update.json
+[03:55:31] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhworld] Found status: OUTDATED Target: 1.4.0
+[03:55:31] [Forge Version Check/INFO] [forge.VersionCheck]: [ebwizardry] Starting version check at https://github.com/Electroblob77/Wizardry/blob/1.12.2/.forge/update.json
+[03:55:31] [Server thread/INFO] [AE2:S]: Pre Initialization ( started )
+[03:55:31] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[03:55:31] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: OUTDATED Target: v1.9.9
+[03:55:31] [Server thread/INFO] [AE2:S]: Starting AE2 VersionChecker
+[03:55:31] [Server thread/INFO] [AE2:S]: Pre Initialization ( ended after 782ms )
+[03:55:31] [AE2 VersionChecker/INFO] [AE2:S]: Last check was just recently.
+[03:55:31] [AE2 VersionChecker/INFO] [AE2:S]: Stopping AE2 VersionChecker
+[03:55:31] [Server thread/INFO] [CoFH World]: Registering default Feature Templates...
+[03:55:32] [Server thread/INFO] [CoFH World]: Registering default World Generators...
+[03:55:32] [Server thread/INFO] [CoFH World]: Verifying or creating base world generation directory...
+[03:55:32] [Server thread/INFO] [CoFH World]: Complete.
+[03:55:32] [Server thread/INFO] [ebwizardry]: Setting up main config
+[03:55:35] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gravestonete`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:35] [Server thread/INFO] [Mekanism]: Didn't detect MCMP, ignoring compatibility package
+[03:55:35] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
+[03:55:35] [Server thread/INFO] [theoneprobe]: The One Probe Detected RedstoneFlux: enabling support
+[03:55:35] [Server thread/INFO] [theoneprobe]: The One Probe Detected Baubles: enabling support
+[03:55:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `portal`, expected `mekanism`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.craftingstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.stenciltable`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partbuilder`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.patternchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolforge`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_controller`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_component`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.faucet`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_basin`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_drain`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.seared_furnace`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tinker_tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.item_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.drying_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.slime_channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:38] [Server thread/INFO] [FML]: Applying holder lookups
+[03:55:38] [Server thread/INFO] [FML]: Holder lookups applied
+[03:55:38] [Server thread/INFO] [GalacticraftCore]: Galacticraft: activating Tinker's Construct compatibility.
+[03:55:39] [Server thread/INFO] [Spartan Shields]: Items Registered!
+[03:55:39] [Server thread/INFO] [FML]: Applying holder lookups
+[03:55:39] [Server thread/INFO] [FML]: Holder lookups applied
+[03:55:39] [Server thread/WARN] [FML]: No types have been added to Biome appliedenergistics2:storage_biome, types have been assigned on a best-effort guess: [PLAINS, COLD]
+[03:55:39] [Server thread/WARN] [FML]: No types have been added to Biome evilcraft:biome_degraded, types have been assigned on a best-effort guess: [PLAINS, WET]
+[03:55:39] [Server thread/INFO] [EvilCraft]: 1428 possible Broom base combinations are ready for flying!
+[03:55:39] [Server thread/INFO] [EvilCraft]: 18 Broom modifiers can be applied!
+[03:55:39] [Server thread/INFO] [FML]: Applying holder lookups
+[03:55:39] [Server thread/INFO] [FML]: Holder lookups applied
+[03:55:39] [Server thread/INFO] [FML]: Applying holder lookups
+[03:55:39] [Server thread/INFO] [FML]: Holder lookups applied
+[03:55:39] [Server thread/INFO] [FML]: Injecting itemstacks
+[03:55:39] [Server thread/INFO] [FML]: Itemstack injection complete
+[03:55:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[03:55:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[03:55:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[03:55:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[03:55:39] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[03:55:40] [Server thread/WARN] [AE2:S]: Recipe Error 'Invalid crafting type: grindfz' near line:1 in processing/factorization.recipe with: [ae2:material.fluix_crystal, ->, ae2:material.fluix_dust]
+[03:55:40] [Server thread/WARN] [AE2:S]: Recipe Error 'Invalid crafting type: grindfz' near line:2 in processing/factorization.recipe with: [ae2:sky_stone_block:0, ->, ae2:material.sky_dust]
+[03:55:40] [Server thread/WARN] [AE2:S]: Recipe Error 'Invalid crafting type: grindfz' near line:4 in processing/factorization.recipe with: [mc:ender_pearl, ->, ae2:material.ender_dust]
+[03:55:40] [Server thread/WARN] [AE2:S]: Recipe Error 'Invalid crafting type: grindfz' near line:5 in processing/factorization.recipe with: [ae2:material.certus_quartz_crystal_charged, ->, ae2:material.certus_quartz_dust]
+[03:55:40] [Server thread/WARN] [AE2:S]: Recipe Error 'Invalid crafting type: grindfz' near line:7 in processing/factorization.recipe with: [ae2:material.certus_quartz_crystal, ->, ae2:material.certus_quartz_dust]
+[03:55:40] [Server thread/WARN] [AE2:S]: Recipe Error 'Invalid crafting type: grindfz' near line:8 in processing/factorization.recipe with: [ae2:quartz_ore, ->, 2, ae2:material.certus_quartz_dust]
+[03:55:40] [Server thread/WARN] [AE2:S]: Recipe Error 'Invalid crafting type: grindfz' near line:9 in processing/factorization.recipe with: [ae2:charged_quartz_ore, ->, 2, ae2:material.certus_quartz_dust]
+[03:55:40] [Server thread/WARN] [AE2:S]: Unable to register a recipe:Unable to find item: appliedenergistics2:material.gold_dust:0
+[03:55:40] [Server thread/WARN] [AE2:S]: Unable to register a recipe:Unable to find item: appliedenergistics2:material.iron_dust:0
+[03:55:40] [Server thread/WARN] [AE2:S]: Unable to register a recipe:Unable to find item: appliedenergistics2:material.silicon:0
+[03:55:40] [Server thread/WARN] [AE2:S]: Unable to register a recipe:Unable to find item: appliedenergistics2:material.silicon:0
+[03:55:40] [Server thread/INFO] [AE2:S]: Recipes Loading: Grind: 4 loaded.
+[03:55:40] [Server thread/INFO] [AE2:S]: Recipes Loading: Pulverizer: 9 loaded.
+[03:55:40] [Server thread/INFO] [AE2:S]: Recipes Loading: Inscribe: 8 loaded.
+[03:55:40] [Server thread/INFO] [AE2:S]: Recipes Loading: Smelt: 2 loaded.
+[03:55:40] [Server thread/INFO] [AE2:S]: Recipes Loading: Press: 3 loaded.
+[03:55:40] [Server thread/INFO] [AE2:S]: Recipes Loading: Macerator: 8 loaded.
+[03:55:40] [Server thread/INFO] [AE2:S]: Recipes Loading: HCCrusher: 9 loaded.
+[03:55:40] [Server thread/INFO] [AE2:S]: Recipes Loading: OreRegistration: 16 loaded.
+[03:55:40] [Server thread/INFO] [AE2:S]: Recipes Loading: MekCrusher: 3 loaded.
+[03:55:40] [Server thread/INFO] [AE2:S]: Recipes Loading: MekEnrichment: 2 loaded.
+[03:55:40] [Server thread/INFO] [AE2:S]: Recipes Loading: Crusher: 9 loaded.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `entangled_chalice`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `entangled_chalice_1`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_1`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_2`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_3`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_4`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_5`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_6`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_7`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_8`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_1`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_2`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_3`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_4`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_5`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_6`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_7`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_8`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_1`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_2`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_3`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_4`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_5`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_6`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_7`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_8`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `display_stand`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `deadbush`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:40] [Server thread/INFO] [Spartan Shields]: Recipes added!
+[03:55:40] [Server thread/WARN] [EvilCraft]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[03:55:40] [Server thread/WARN] [EvilCraft]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[03:55:40] [Server thread/WARN] [EvilCraft]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[03:55:40] [Server thread/INFO] [FML]: Applying holder lookups
+[03:55:40] [Server thread/INFO] [FML]: Holder lookups applied
+[03:55:40] [Server thread/INFO] [AE2:S]: Initialization ( started )
+[03:55:40] [Server thread/INFO] [AE2:S]: Disabling item.csv export for custom recipes, since creative tab information is only available on the client.
+[03:55:40] [Server thread/INFO] [AE2:S]: Initialization ( ended after 50ms )
+[03:55:41] [Thread-6/INFO] [Cyclops Core]: Cyclops Core is up-to-date!
+[03:55:41] [Server thread/INFO] [ebwizardry]: Setting up spells config for 188 spells
+[03:55:41] [Server thread/INFO] [ebwizardry]: Setting up artefacts config
+[03:55:41] [Server thread/INFO] [ebwizardry]: Setting up resistances config
+[03:55:41] [Thread-6/INFO] [EvilCraft]: EvilCraft is up-to-date!
+[03:55:41] [Server thread/INFO] [ebwizardry]: Loading spell properties from config folder
+[03:55:41] [Server thread/INFO] [ebwizardry]: Loading built-in spell properties for 189 spells in mod ebwizardry
+[03:55:41] [Server thread/INFO] [EvilCraft]: Registered packet handler.
+[03:55:41] [Server thread/INFO] [Mekanism]: Version 9.7.9 initializing...
+[03:55:41] [Server thread/INFO] [Mekanism]: Loading complete.
+[03:55:41] [Server thread/INFO] [Mekanism]: Mod loaded.
+[03:55:41] [Server thread/INFO] [Mekanism]: Loaded MekanismGenerators module.
+[03:55:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 iron furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 gold furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 diamond furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 obsidian furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 netherrack furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 copper furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 silver furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[03:55:41] [Server thread/INFO] [thermalfoundation]: Thermal Foundation: Tinkers' Construct Plugin Enabled.
+[03:55:41] [Server thread/INFO] [FML]: Injecting itemstacks
+[03:55:41] [Server thread/INFO] [FML]: Itemstack injection complete
+[03:55:41] [Server thread/INFO] [AE2:S]: Post Initialization ( started )
+[03:55:41] [Server thread/INFO] [AE2:S]: Industrial Craft 2 - Integration Disabled
+[03:55:41] [Server thread/INFO] [AE2:S]: Railcraft - Integration Disabled
+[03:55:41] [Server thread/INFO] [AE2:S]: Mine Factory Reloaded - Integration Disabled
+[03:55:41] [Server thread/INFO] [AE2:S]: Waila - Integration Disabled
+[03:55:41] [Server thread/INFO] [AE2:S]: Mekanism - Integration Enable
+[03:55:41] [Server thread/INFO] [AE2:S]: OpenComputers - Integration Disabled
+[03:55:41] [Server thread/INFO] [AE2:S]: TheOneProbe - Integration Enable
+[03:55:41] [Server thread/INFO] [AE2:S]: Tesla - Integration Disabled
+[03:55:41] [Server thread/INFO] [AE2:S]: CraftTweaker - Integration Disabled
+[03:55:41] [Server thread/INFO] [AE2:S]: Post Initialization ( ended after 108ms )
+[03:55:41] [Server thread/INFO] [EvilCraft]: Register fluid conversion for blood with ratio 1.0
+[03:55:41] [Server thread/WARN] [EvilCraft]: Could not find a fluid by name 'lifeessence' for a fluid converter config.
+[03:55:41] [Server thread/WARN] [EvilCraft]: Could not find a fluid by name 'hell_blood' for a fluid converter config.
+[03:55:41] [Server thread/INFO] [GalacticraftCore]: Galacticraft: activating Mekanism compatibility.
+[03:55:41] [Server thread/INFO] [GalacticraftCore]: Galacticraft: activating Tinker's Construct compatibility features.
+[03:55:41] [Server thread/INFO] [GalacticraftCore]: Galacticraft: activating AppliedEnergistics2 compatibility features.
+[03:55:41] [Server thread/INFO] [Mekanism]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[03:55:41] [Server thread/INFO] [Mekanism]: Hooked into AE2 successfully.
+[03:55:41] [Server thread/INFO] [Mekanism]: Finished loading Cardboard Box blacklist (loaded 0 entries)
+[03:55:41] [Server thread/INFO] [Mekanism]: Hooking complete.
+[03:55:42] [Server thread/INFO] [cofhcore]: CoFH Core: Load Complete.
+[03:55:42] [Server thread/INFO] [CoFH World]: Accumulating world generation files from: "/workspaces/sadsa/servidor_minecraft/config/cofh/world"
+[03:55:42] [Server thread/INFO] [CoFH World]: Found a total of 3 world generation files.
+[03:55:42] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh/world/03_thermalfoundation_clathrates.json":
+[03:55:42] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh/world/02_thermalfoundation_oil.json":
+[03:55:42] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh/world/01_thermalfoundation_ores.json":
+[03:55:42] [Server thread/INFO] [CoFH World]: CoFH World: Load Complete.
+[03:55:42] [Server thread/INFO] [thermalfoundation]: [Whitelist] Reading established Whitelist from file.
+[03:55:42] [Server thread/INFO] [thermalfoundation]: Thermal Foundation: Load Complete.
+[03:55:42] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 33 mods
+[03:55:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[03:55:42] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[03:55:43] [Server thread/INFO] [FML]: Applying holder lookups
+[03:55:43] [Server thread/INFO] [FML]: Holder lookups applied
+[03:55:43] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@1b93f355)
+[03:55:43] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 602 advancements
+[03:55:43] [Server thread/INFO] [ebwizardry]: Loading custom spell properties for world world
+[03:55:43] [Server thread/ERROR] [gravestone]: Data not found. Trying to load backup data.
+[03:55:44] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1b93f355)
+[03:55:44] [Server thread/ERROR] [gravestone]: Data not found. Trying to load backup data.
+[03:55:44] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@1b93f355)
+[03:55:44] [Server thread/ERROR] [gravestone]: Data not found. Trying to load backup data.
+[03:55:44] [Server thread/INFO] [FML]: Loading dimension 2 (world) (net.minecraft.server.dedicated.DedicatedServer@1b93f355)
+[03:55:44] [Server thread/ERROR] [gravestone]: Data not found. Trying to load backup data.
+[03:55:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[03:55:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 30%
+[03:55:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.802s)! For help, type "help" or "?"
+[03:55:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -30
+[03:55:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -29
+[03:55:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -31
+[03:55:45] [Server thread/INFO] [GalacticraftCore]: Registered Dimension: -28
+[03:55:45] [Server thread/INFO] [FML]: Unloading dimension -1
+[03:55:45] [Server thread/INFO] [FML]: Unloading dimension 1
+[03:55:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[03:55:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:55:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:55:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[03:55:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[03:55:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/Storage Cell
+[03:55:53] [Server thread/INFO] [FML]: Unloading dimension 0
+[03:55:53] [Server thread/INFO] [FML]: Unloading dimension 2
+[03:55:53] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -30
+[03:55:53] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -29
+[03:55:53] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -31
+[03:55:53] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -28
+[03:55:53] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:55:53] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:55:53] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
